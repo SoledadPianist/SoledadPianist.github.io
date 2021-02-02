@@ -1,0 +1,3 @@
+/* build time:Tue Jan 19 2021 10:35:03 GMT+0800 (GMT+08:00)*/
+.copyright ul{background:var(--grey-1);padding:.5em 2em;position:relative;font-size:$font-size-smallest}.copyright ul::before{content:"";position:absolute;width:5px;height:100%;left:-5px;top:0;background:var(--primary-color);border-radius:6px}
+/* rebuild by hrmmi */
